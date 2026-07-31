@@ -1,45 +1,10 @@
 {
-<<<<<<< HEAD
-  "nextId": 4,
-  "agents": [
-    { "id": 1, "name": "Uwase Divine", "changed": "2026-05-17", "policy": 90 },
-    { "id": 2, "name": "Mugisha Eric", "changed": "2026-05-07", "policy": 90 },
-    { "id": 3, "name": "Ingabire Chantal", "changed": "2026-07-11", "policy": 30 }
-  ]
-}
-=======
   "nextId": 6,
   "agents": [
-    {
-      "id": 1,
-      "name": "Uwase Divine",
-      "changed": "2026-07-31",
-      "policy": 90
-    },
-    {
-      "id": 2,
-      "name": "Mugisha Eric",
-      "changed": "2026-05-07",
-      "policy": 90
-    },
-    {
-      "id": 3,
-      "name": "Ingabire Chantal",
-      "changed": "2026-07-11",
-      "policy": 30
-    },
-    {
-      "id": 4,
-      "name": "CINDY",
-      "changed": "2026-07-31",
-      "policy": 90
-    },
-    {
-      "id": 5,
-      "name": "Uwineza Chantal",
-      "changed": "2026-07-01",
-      "policy": 90
-    }
+    { "id": 1, "name": "Uwase Divine", "changed": "2026-07-31", "policy": 90 },
+    { "id": 2, "name": "Mugisha Eric", "changed": "2026-05-07", "policy": 90 },
+    { "id": 3, "name": "Ingabire Chantal", "changed": "2026-07-11", "policy": 30 },
+    { "id": 4, "name": "CINDY", "changed": "2026-07-31", "policy": 90 },
+    { "id": 5, "name": "Uwineza Chantal", "changed": "2026-07-01", "policy": 90 }
   ]
 }
->>>>>>> f6b4e139968a49b038057443947a6e5c0f8e5562
