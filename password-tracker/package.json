@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": ">=18.0.0"
   },
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+>>>>>>> f6b4e139968a49b038057443947a6e5c0f8e5562
   "keywords": [],
   "author": "",
   "license": "ISC",

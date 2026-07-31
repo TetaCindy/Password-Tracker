@@ -3,7 +3,11 @@ const fs = require("fs");
 const path = require("path");
 
 const app = express();
+<<<<<<< HEAD
 const PORT = process.env.PORT || 3000;
+=======
+const PORT = 3000;
+>>>>>>> f6b4e139968a49b038057443947a6e5c0f8e5562
 const DATA_FILE = path.join(__dirname, "data.json");
 
 app.use(express.json());
