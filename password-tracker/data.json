@@ -1,0 +1,8 @@
+{
+  "nextId": 4,
+  "agents": [
+    { "id": 1, "name": "Uwase Divine", "changed": "2026-05-17", "policy": 90 },
+    { "id": 2, "name": "Mugisha Eric", "changed": "2026-05-07", "policy": 90 },
+    { "id": 3, "name": "Ingabire Chantal", "changed": "2026-07-11", "policy": 30 }
+  ]
+}
